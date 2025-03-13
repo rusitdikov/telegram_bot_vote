@@ -2,10 +2,10 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 #⛔️ вставь токен тут:
-bot = telebot.TeleBot('ВАШ_ТОКЕН')
+bot = telebot.TeleBot(7906336905:AAEG1wlCl2C7HElzttpVJ-kbnM1GT32lPFs)
 
 #⛔️ тут сам канал (для проверки подписки):
-CHANNEL_ID = '@your_channel_here'
+CHANNEL_ID = @rso_official
 
 votes = {}
 
